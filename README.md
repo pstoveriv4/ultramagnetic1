@@ -1,2 +1,2 @@
 # ultramagnetic1
-1st public code repo
+This repo hosts public available code and scripts
